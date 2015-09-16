@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 慧上菩薩問大善權經
+#+DATE: 2015-08-30 20:01:35.349705
+#+PROPERTY: JUAN 0
